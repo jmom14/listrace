@@ -1,0 +1,7 @@
+{
+    "name": "listrace",
+    "version": "1.0.0",
+    "scripts": {
+        "start": "web-dev-server --node-resolve --open --watch"
+    }
+}
